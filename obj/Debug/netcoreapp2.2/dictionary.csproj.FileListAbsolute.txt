@@ -1,0 +1,11 @@
+/Users/dominickantrude/workspace/csharp/exercises/dictionary/bin/Debug/netcoreapp2.2/dictionary.deps.json
+/Users/dominickantrude/workspace/csharp/exercises/dictionary/bin/Debug/netcoreapp2.2/dictionary.runtimeconfig.json
+/Users/dominickantrude/workspace/csharp/exercises/dictionary/bin/Debug/netcoreapp2.2/dictionary.runtimeconfig.dev.json
+/Users/dominickantrude/workspace/csharp/exercises/dictionary/bin/Debug/netcoreapp2.2/dictionary.dll
+/Users/dominickantrude/workspace/csharp/exercises/dictionary/bin/Debug/netcoreapp2.2/dictionary.pdb
+/Users/dominickantrude/workspace/csharp/exercises/dictionary/obj/Debug/netcoreapp2.2/dictionary.csprojAssemblyReference.cache
+/Users/dominickantrude/workspace/csharp/exercises/dictionary/obj/Debug/netcoreapp2.2/dictionary.csproj.CoreCompileInputs.cache
+/Users/dominickantrude/workspace/csharp/exercises/dictionary/obj/Debug/netcoreapp2.2/dictionary.AssemblyInfoInputs.cache
+/Users/dominickantrude/workspace/csharp/exercises/dictionary/obj/Debug/netcoreapp2.2/dictionary.AssemblyInfo.cs
+/Users/dominickantrude/workspace/csharp/exercises/dictionary/obj/Debug/netcoreapp2.2/dictionary.dll
+/Users/dominickantrude/workspace/csharp/exercises/dictionary/obj/Debug/netcoreapp2.2/dictionary.pdb
